@@ -16,7 +16,7 @@ Built on VERL commit [`2bd291e5494db03ba358ef279a334c2f0829b979`](https://github
 
 ---
 <p align="center">
-  <img src="deep-search.png" alt="DeepSearch Overview" width="600">
+  <img src="deep-search.png" alt="DeepSearch Overview" width="100%">
 </p>
 
 
