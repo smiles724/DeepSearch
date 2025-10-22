@@ -5,6 +5,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2509.25454)
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue)](https://huggingface.co/fangwu97/DeepSearch-1.5B)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
+[![HF Daily Top 1](https://img.shields.io/badge/HuggingFace%20Daily%20Top 1-FFD21F?logo=huggingface&logoColor=black)](https://huggingface.co/papers/2025-10-19-deepsearch)
 
 </div>
 
