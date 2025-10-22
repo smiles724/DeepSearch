@@ -15,6 +15,10 @@
 Built on VERL commit [`2bd291e5494db03ba358ef279a334c2f0829b979`](https://github.com/volcengine/verl/tree/2bd291e5494db03ba358ef279a334c2f0829b979)
 
 ---
+<p align="center">
+  <img src="deep-search.png" alt="DeepSearch Overview" width="600">
+</p>
+
 
 ## 🔧 Environment Setup
 
