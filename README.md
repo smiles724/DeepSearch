@@ -1,4 +1,4 @@
-# DeepSearch: Overcome the Battle of Depths through Rollout-guided Exploration
+# DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search
 
 <div align="center">
 
